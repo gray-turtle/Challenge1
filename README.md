@@ -12,6 +12,10 @@ Front end page using HTML and CSS, should run on any modern browser.
 
 ![screenshot of completed webpage](./full-site.png)
 
+## Credits
 
+Keith Fike
+
+made with UofU coding bootcamp assets
 
 
